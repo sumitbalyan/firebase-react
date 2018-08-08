@@ -12,7 +12,7 @@ How to use firebase real time database in ReactJS
 <br /> $ npm install --save firebase
 3. Also install 
  <br /> $ npm install trim
- <br /> $ component install component/trim
+ <br /> $ npm install component/trim
  <br /> for trim the string
 4. download the project & run using command "npm start"
 
